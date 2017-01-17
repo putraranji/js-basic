@@ -18,3 +18,5 @@ console.log(multiArray[0][2]);
 // hasil: 0-2
 console.log(multiArray[1][2]);
 // hasil: 1-2
+
+// Test
